@@ -1,1 +1,1 @@
-# responsive-practice
+# rwd-practice
