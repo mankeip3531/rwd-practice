@@ -1,0 +1,13 @@
+.section {
+    display: inline-block;
+
+}
+@media (min-width: 1600px){
+#section1{
+    width: 29%;
+    vertical-align: top;
+}
+#section2 {
+    width: 69%;
+}
+}
